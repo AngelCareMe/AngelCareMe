@@ -28,6 +28,7 @@ Backend-разработчик на Go, люблю чистый код и Postgr
 ## 🐍 Змейка по коммитам
 ![Snake animation](https://github.com/AngelCareMe/AngelCareMe/blob/output/github-contribution-grid-snake.svg)
 
+
 ---
 
 <!-- Нижний баннер -->
