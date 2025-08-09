@@ -1,5 +1,5 @@
 <!-- Приветственный баннер -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0077B6&height=200&section=header&text=Hi%20there,%20I'm%20AnglerCareMe!%20👋&fontSize=30&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0077B6&height=200&section=header&text=Hi%20there,%20I'm%20AngelCareMe!%20👋&fontSize=30&fontColor=ffffff)
 
 ## 👨‍💻 О себе
 Backend-разработчик на Go, люблю чистый код и PostgreSQL.  
@@ -14,7 +14,6 @@ Backend-разработчик на Go, люблю чистый код и Postgr
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
