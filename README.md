@@ -20,13 +20,13 @@ Backend-разработчик на Go, люблю чистый код и Postgr
 ---
 
 ## 📊 GitHub статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnglerCareMe&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnglerCareMe&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelCareMe&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelCareMe&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🐍 Змейка по коммитам
-![Snake animation](https://github.com/AnglerCareMe/AnglerCareMe/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AnglerCareMe/AngelCareMe/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
