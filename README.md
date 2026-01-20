@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:0077B6&height=200&section=header&text=Hi%20there,%20I'm%20AngelCareMe!%20👋&fontSize=30&fontColor=ffffff)
 
 ## 👨‍💻 О себе
-Backend-разработчик на Go, люблю чистый код и PostgreSQL.  
+Backend-разработчик на Go, люблю чистый код.  
 Стремлюсь писать надёжные и масштабируемые сервисы.
 
 ---
